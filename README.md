@@ -24,7 +24,7 @@ The dataset contains 150 rows and 5 columns:
 - **Label:**
   - Species (*Iris-setosa*, *Iris-versicolor*, *Iris-virginica*)
 
-Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+
 
 ---
 
@@ -32,5 +32,5 @@ Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/iris-randomforest-classifier.git
+   git clone https://github.com/rajshivam46/iris-randomforest-classifier.git
    cd iris-randomforest-classifier
